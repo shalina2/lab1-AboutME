@@ -1,0 +1,2 @@
+# Readme
+This is an about me game. you guess and answer the listed diffrent questions about me,they include fun facts and simple questions like my name.And whenever you are ready to play it and answer the first question it continues asking until you hit the last question.
